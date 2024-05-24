@@ -82,7 +82,7 @@ let Pais = {
     gentilicio: 'peruano'
 }
 //18//
-let codError = 'O_error'['codigo'];
+let codError = O_Error.codigo;
 //19//
 let integrantes = Grupo.integrantes;
 //20//
